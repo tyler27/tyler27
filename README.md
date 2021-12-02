@@ -8,6 +8,6 @@
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/ultraviolet-jordan">
-      <img src="https://github-readme-stats.vercel.app/api/?username=tyler27&title_color=ec7460&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=ec7460&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
+      <img src="https://github-readme-stats.vercel.app/api/?username=tyler27&theme=shades-of-purplse&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
     </td>
   </tr>
