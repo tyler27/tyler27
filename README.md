@@ -9,7 +9,7 @@
  <tr>
     <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/tyler27">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=tyler27&theme=shades-of-purple&hide_border=true&ring=ec7460&currStreakLabel=ec7460&sideNums=ec7460&dates=979797&sideLabels=ec7460&currStreakNum=ec7460&border=DD2727&stroke=00000000&background=00000000&fire=FF7600" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=tyler27&theme=shades-of-purple&hide_border=true&dates=979797" />
     </td>
   </tr>
   
