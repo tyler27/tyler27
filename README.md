@@ -24,8 +24,7 @@
   
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <a href="https://github.com/tyler27">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyler27" />
+      <a href="https://github.com/tyler27"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyler27" /></a>
     </td>
   </tr>
 </p>
