@@ -23,8 +23,8 @@
   </tr>
   
   <tr>
-  <td align="center" style="padding=0;width=50%;">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-  </td>
+    <td align="center" style="padding=0;width=50%;">
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyler27)](https://github.com/anuraghazra/github-readme-stats)
+    </td>
   </tr>
 </p>
