@@ -9,10 +9,10 @@
   <br>
   
 
- <tr>
+  <tr>
     <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/tyler27">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=tyler27&theme=shades-of-purple&hide_border=true&dates=979797" />
+      <img src="https://github-readme-stats.vercel.app/api/?username=tyler27&theme=shades-of-purple&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
     </td>
   </tr>
   
